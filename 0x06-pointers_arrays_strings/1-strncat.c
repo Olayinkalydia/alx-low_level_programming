@@ -7,7 +7,7 @@
  * @n: number of character to be copied
  * Retun: dest
  */
-char *_strncat(char *dest, char *src, int n)
+char *_strncat(char *dest, char *src, int n);
 {
 	int i;
 	int j;
