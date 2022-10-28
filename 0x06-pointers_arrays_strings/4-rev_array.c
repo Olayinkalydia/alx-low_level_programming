@@ -3,7 +3,6 @@
 /**
  * reverse_array - reverses an array of integers
  * @a: array
- * @src: copy from
  * @n: number of elements of the array
  * Return: rev
  */
