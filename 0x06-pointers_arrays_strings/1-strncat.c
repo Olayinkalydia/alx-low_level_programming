@@ -5,7 +5,7 @@
  * @dest: copy to
  * @src: copy from
  * @n: number of character to be copied
- * Retun: dest
+ * Return: dest
  */
 char *_strncat(char *dest, char *src, int n);
 {
